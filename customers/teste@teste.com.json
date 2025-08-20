@@ -9,5 +9,7 @@
   "acesso_liberado": true,
   "nome": "teste teste",
   "cpf": "19100000000",
-  "telefone": "11987206971"
+  "telefone": "11987206971",
+  "senha": "teste1234",
+  "data_recuperacao": "2025-08-20T22:21:27.180Z"
 }
